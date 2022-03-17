@@ -1,1 +1,1 @@
-inner readme
+This is the readme in the root directory
